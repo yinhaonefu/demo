@@ -1,6 +1,6 @@
-## Git课程示例项目
+## Git Demo
 
-### 开发者
+### developer
 
 * zhangsan
 * lisi
